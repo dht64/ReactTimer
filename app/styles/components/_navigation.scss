@@ -6,4 +6,10 @@
 	.menu-text {
 		color: $nav-text-color;
 	}
+	.active-link {
+		font-weight: bold;
+	}
+	.menu > li > a {
+		color: #AEB8C3;
+	}
 }
