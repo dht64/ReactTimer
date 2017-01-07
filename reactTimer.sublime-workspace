@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"Cou",
+				"Countdown〔variable〕"
+			],
+			[
+				"start",
+				"startTimer"
+			],
+			[
+				"coun",
+				"countdownStatus"
+			],
+			[
+				"Reac",
+				"ReactDOM〔variable〕"
+			],
+			[
+				"Count",
+				"CountdownForm"
+			],
+			[
+				"Coun",
+				"CountdownForm"
+			],
+			[
 				"actua",
 				"actualText"
 			],
@@ -14,14 +38,6 @@
 			[
 				"ex",
 				"expected"
-			],
-			[
-				"Coun",
-				"CountDown〔variable〕"
-			],
-			[
-				"Count",
-				"CountDown"
 			],
 			[
 				"web",
@@ -498,131 +514,16 @@
 			[
 				"reque",
 				"required_m_qty"
-			],
-			[
-				"m",
-				"m_qty"
-			],
-			[
-				"r",
-				"required_p_qty"
-			],
-			[
-				"m_",
-				"m_unit_equi"
-			],
-			[
-				"stat",
-				"status"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "app/components/Navigation.jsx",
-			"settings":
-			{
-				"buffer_size": 642,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/components/Main.jsx",
-			"settings":
-			{
-				"buffer_size": 262,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/styles/components/_navigation.scss",
-			"settings":
-			{
-				"buffer_size": 191,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/components/Clock.jsx",
-			"settings":
-			{
-				"buffer_size": 677,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/styles/base/_variables.scss",
-			"settings":
-			{
-				"buffer_size": 198,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "karma.conf.js",
-			"settings":
-			{
-				"buffer_size": 438,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/tests/app.test.jsx",
-			"settings":
-			{
-				"buffer_size": 127,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/tests/components/Clock.test.jsx",
-			"settings":
-			{
-				"buffer_size": 1122,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/app.jsx",
-			"settings":
-			{
-				"buffer_size": 636,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/components/CountDown.jsx",
-			"settings":
-			{
-				"buffer_size": 201,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/styles/components/_clock.scss",
-			"settings":
-			{
-				"buffer_size": 305,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "app/components/CountDownForm.jsx",
 			"settings":
 			{
-				"buffer_size": 44,
+				"buffer_size": 613,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -631,34 +532,34 @@
 			"file": "app/tests/components/CountdownForm.test.jsx",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 1101,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "app/components/Timer.jsx",
+			"file": "app/components/CountDown.jsx",
 			"settings":
 			{
-				"buffer_size": 143,
+				"buffer_size": 986,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "package.json",
+			"file": "app/tests/components/Countdown.test.jsx",
 			"settings":
 			{
-				"buffer_size": 1104,
-				"line_ending": "Unix"
+				"buffer_size": 315,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "webpack.config.js",
 			"settings":
 			{
-				"buffer_size": 957,
-				"encoding": "UTF-8",
+				"buffer_size": 1012,
 				"line_ending": "Windows"
 			}
 		}
@@ -735,6 +636,21 @@
 	],
 	"file_history":
 	[
+		"/C/xampp/htdocs/reactTimer/app/components/Navigation.jsx",
+		"/C/xampp/htdocs/reactTimer/app/components/Main.jsx",
+		"/C/xampp/htdocs/reactTimer/app/styles/components/_navigation.scss",
+		"/C/xampp/htdocs/reactTimer/app/components/Clock.jsx",
+		"/C/xampp/htdocs/reactTimer/app/styles/base/_variables.scss",
+		"/C/xampp/htdocs/reactTimer/karma.conf.js",
+		"/C/xampp/htdocs/reactTimer/app/tests/app.test.jsx",
+		"/C/xampp/htdocs/reactTimer/app/tests/components/Clock.test.jsx",
+		"/C/xampp/htdocs/reactTimer/app/app.jsx",
+		"/C/xampp/htdocs/reactTimer/app/components/CountDown.jsx",
+		"/C/xampp/htdocs/reactTimer/app/styles/components/_clock.scss",
+		"/C/xampp/htdocs/reactTimer/app/tests/components/CountdownForm.test.jsx",
+		"/C/xampp/htdocs/reactTimer/app/components/Timer.jsx",
+		"/C/xampp/htdocs/reactTimer/package.json",
+		"/C/xampp/htdocs/reactTimer/webpack.config.js",
 		"/C/xampp/htdocs/reactTimer/app/styles/app.scss",
 		"/C/xampp/htdocs/reactTimer/readme.md",
 		"/C/xampp/htdocs/reactBoilerplate2/app/styles/app.scss",
@@ -847,22 +763,7 @@
 		"/C/xampp/htdocs/lavina_erp/resources/views/bowner/customer/create.blade.php",
 		"/C/xampp/htdocs/lavina_erp/resources/views/includes/form_error.blade.php",
 		"/C/xampp/htdocs/lavina_erp/database/migrations/2016_08_25_085612_create_humans_table.php",
-		"/C/xampp/htdocs/lavina_erp/vendor/laravel/framework/src/Illuminate/Routing/Controller.php",
-		"/C/xampp/htdocs/lavina_erp/vendor/laravel/framework/src/Illuminate/Foundation/Validation/ValidatesRequests.php",
-		"/C/xampp/htdocs/lavina_erp/public/css/libsstyle.css",
-		"/C/xampp/htdocs/lavina_erp/resources/views/bowner/humans/index.blade.php",
-		"/C/xampp/htdocs/lavina_erp/app/Http/Controllers/ChartController_order.php",
-		"/C/xampp/htdocs/lavina_erp/resources/views/bowner/customer/index.blade.php",
-		"/C/xampp/htdocs/lavina_erp/app/Product.php",
-		"/C/xampp/htdocs/lavina_erp/resources/views/admin/users/edit.blade.php",
-		"/C/xampp/htdocs/lavina_erp/resources/views/admin/users/create.blade.php",
-		"/C/xampp/htdocs/lavina_erp/resources/views/layouts/app.blade.php",
-		"/C/xampp/htdocs/lavina_erp/resources/views/bowner/leaves/edit.blade.php",
-		"/C/xampp/htdocs/lavina_erp/database/seeds/MaterialTableSeeder.php",
-		"/C/xampp/htdocs/lavina_erp/database/seeds/ProductTableSeeder.php",
-		"/C/xampp/htdocs/lavina_erp/database/migrations/2016_09_21_141501_create_materials_table.php",
-		"/C/xampp/htdocs/lavina_erp/database/migrations/2016_09_19_105401_create_products_table.php",
-		"/C/xampp/htdocs/lavina_erp/database/migrations/2016_09_24_151342_create_purchases_table.php"
+		"/C/xampp/htdocs/lavina_erp/vendor/laravel/framework/src/Illuminate/Routing/Controller.php"
 	],
 	"find":
 	{
@@ -880,6 +781,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Clock",
 			"CountDown",
 			"Countdown",
 			"CountDown",
@@ -1006,8 +908,7 @@
 			"supplier",
 			"Description",
 			"description",
-			"supplier",
-			"Supplier"
+			"supplier"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1025,24 +926,54 @@
 	"groups":
 	[
 		{
-			"selected": 11,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "app/components/Navigation.jsx",
+					"file": "app/components/CountDownForm.jsx",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 642,
+						"buffer_size": 613,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								384,
-								384
+								248,
+								262
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2
+						},
+						"translation.x": 2.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/tests/components/CountdownForm.test.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1101,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								711,
+								711
 							]
 						],
 						"settings":
@@ -1055,24 +986,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 13,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "app/components/Main.jsx",
+					"buffer": 2,
+					"file": "app/components/CountDown.jsx",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 262,
+						"buffer_size": 986,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								121,
-								121
+								976,
+								985
 							]
 						],
 						"settings":
@@ -1086,309 +1017,46 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "app/styles/components/_navigation.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 191,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								179,
-								185
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "app/components/Clock.jsx",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 677,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								330,
-								331
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-							"tab_size": 2
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "app/styles/base/_variables.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 198,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								197,
-								197
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "karma.conf.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 438,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								53,
-								53
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 2
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 15,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "app/tests/app.test.jsx",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 127,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								127,
-								127
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-							"tab_size": 2
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "app/tests/components/Clock.test.jsx",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1122,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								929,
-								1065
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-							"tab_size": 2
-						},
-						"translation.x": 0.0,
-						"translation.y": 153.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "app/app.jsx",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 636,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								636,
-								636
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-							"tab_size": 2
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 12,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "app/components/CountDown.jsx",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 201,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								160,
-								160
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-							"tab_size": 2
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "app/styles/components/_clock.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 305,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								220,
-								220
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "app/components/CountDownForm.jsx",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 44,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								44,
-								44
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 12,
-					"file": "app/tests/components/CountdownForm.test.jsx",
+					"buffer": 3,
+					"file": "app/tests/components/Countdown.test.jsx",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 315,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								246,
+								246
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "webpack.config.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1012,
 						"regions":
 						{
 						},
@@ -1401,104 +1069,15 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "app/components/Timer.jsx",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 143,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								143,
-								143
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 14,
-					"file": "package.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1104,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								368,
-								192
-							]
-						],
-						"settings":
-						{
-							"auto_complete": true,
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 102.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 14,
-					"type": "text"
-				},
-				{
-					"buffer": 15,
-					"file": "webpack.config.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 957,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								630,
-								630
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
 							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
 							"translate_tabs_to_spaces": false
 						},
-						"translation.x": 8.0,
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -1625,7 +1204,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 171.0,
+	"side_bar_width": 187.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
